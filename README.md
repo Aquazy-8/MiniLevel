@@ -21,9 +21,9 @@ Het doel van mijn level is dat je de 4 coins moet verzamelen en dan heb je gewon
 
 <!-- Voeg hieronder een screenshot of een GIF toe van je werkende level.
      Sleep het bestand naar deze map en gebruik dan de syntax hieronder. -->
-     
-![Mini-level preview](vids/CollectCoins.mp4)
-![Lose version](vids/ExampleLose.mp4)
+Mijn excuses voor de slechte kwaliteit.
+![Mini-level preview](/vids/CollectCoin.gif)
+![Lose version](/vids/ExampleLose.gif)
 
 <!-- Tip: gebruik ShareX, LICEcap of de ingebouwde Xbox Game Bar (Win+G) om een GIF op te nemen. -->
 
